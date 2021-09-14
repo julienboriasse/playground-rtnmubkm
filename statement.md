@@ -1,16 +1,14 @@
-# Welcome!
+# Exercice 1
 
-This C template lets you get started quickly with a simple one-page playground.
+Afficher le message "Le C c'est fantastique !"
 
 ```C runnable
 #include <stdio.h>
 
 int main() {
+	// afficher le message "Le C c'est fantastique !"
 	printf("Hello World!");
 }
 
 ```
 
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
