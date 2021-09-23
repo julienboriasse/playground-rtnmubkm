@@ -2,6 +2,6 @@
 
 int main(void)
 {
-  printf("success false");
+  printf("TECHIO> success false");
   return 0;
 }
