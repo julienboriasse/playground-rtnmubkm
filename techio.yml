@@ -4,3 +4,8 @@ plan:
   statement: statement1.md
 - title: Partie 2
   statement: statement2.md
+
+projects:
+  c:
+    root: /c-project
+    runner: gcc:4.9  
