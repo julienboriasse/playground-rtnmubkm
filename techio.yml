@@ -1,4 +1,6 @@
 title: Simple C Template
 plan:
-- title: C Snippet
-  statement: statement.md
+- title: Partie 1
+  statement: statement1.md
+- title: Partie 2
+  statement: statement2.md
